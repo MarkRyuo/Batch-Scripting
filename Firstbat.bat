@@ -13,3 +13,4 @@ pause @REM this is for stopping
 cls @REM para kapag i enter ay mawala yung nasa taas 
 
 echo Yeah you are gay !
+pause 
