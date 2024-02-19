@@ -6,11 +6,13 @@
 @REM echo Enter your Name 
 @REM pause 
 
-@echo off 
-title Practical joke 
-echo Are you gay? "Please Enter"
-pause @REM this is for stopping 
-cls @REM para kapag i enter ay mawala yung nasa taas 
+@REM @echo off 
+@REM title Practical joke 
+@REM echo Are you gay? "Please Enter"
+@REM pause @REM this is for stopping 
+@REM cls @REM para kapag i enter ay mawala yung nasa taas 
 
-echo Yeah you are gay !
-pause 
+@REM echo Yeah you are gay !
+@REM pause 
+
+
