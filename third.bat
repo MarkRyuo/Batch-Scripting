@@ -4,4 +4,5 @@ echo Hello World Third!
 pause 
 cls 
 
-echo Hi There
+echo Hi There!
+pause  
