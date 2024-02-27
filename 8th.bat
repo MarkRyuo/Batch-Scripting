@@ -3,4 +3,5 @@ title Batch Scripting 8th day
 echo "Hello Guys"
 pause 
 cls 
-echo 
+echo "If you are gay hit Enter!"
+pause 
