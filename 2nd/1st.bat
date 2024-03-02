@@ -32,4 +32,8 @@ pause
 echo off 
 color 7d 
 title coloring 
-echo This is greate yknow 
+echo This is great yknow 
+pause
+cls 
+color 5a 
+echo This is 
