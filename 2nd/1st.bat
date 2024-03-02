@@ -27,3 +27,9 @@ pause
 @REM D = Light Purple
 @REM E = Light Yellow
 @REM F = Bright Whit
+
+
+echo off 
+color 7d 
+title coloring 
+echo This is greate yknow 
