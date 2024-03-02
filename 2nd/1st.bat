@@ -30,8 +30,8 @@ pause
 
 
 echo off 
-color 7d 
 title coloring 
+color 7d 
 echo This is great yknow that! 
 pause
 cls 
