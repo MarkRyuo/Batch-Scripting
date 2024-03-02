@@ -26,7 +26,7 @@
 @REM C = Light Red
 @REM D = Light Purple
 @REM E = Light Yellow
-@REM F = Bright Whit
+@REM F = Bright White
 
 
 echo off 
