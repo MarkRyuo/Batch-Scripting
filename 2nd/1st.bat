@@ -29,12 +29,24 @@
 @REM F = Bright White
 
 
+@REM echo off 
+@REM title coloring 
+@REM color 7d 
+@REM echo This is great yknow that! 
+@REM pause
+@REM cls 
+@REM color 5a 
+@REM echo wow this is great!
+@REM pause 
+
+
 echo off 
-title coloring 
-color 7d 
-echo This is great yknow that! 
-pause
-cls 
-color 5a 
-echo wow this is great!
+title this is coloring 
+color 3d 
+echo This is color Bro !
 pause 
+cls 
+color 4f 
+echo Interesting 
+pause 
+start https://youtu.be/cSDKG58OScw?si=uQaG-hEdUXfJNRr4
