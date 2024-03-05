@@ -1,7 +1,7 @@
 echo off 
 color 4d 
 title Batch 
-echo "Batch Scripting is fun"
+echo "Batch Scripting is fun Right?"
 pause 
 echo "Yeah This is Fun"
 pause 
