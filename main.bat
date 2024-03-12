@@ -20,3 +20,4 @@ color 5d
 echo "This is coloring Batch" 
 pause 
 echo "Enter if you want to quite"
+pause
