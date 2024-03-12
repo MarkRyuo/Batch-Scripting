@@ -11,7 +11,7 @@
 
 
 echo off 
-color 3f
+color 32
 title ColorOf 
 echo "Hello Guys Im back"
 pause 
