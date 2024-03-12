@@ -10,3 +10,13 @@
 @REM pause 
 
 
+echo off 
+color 3f
+title ColorOf 
+echo "Hello Guys Im back"
+pause 
+cls @REM to clear 
+color 5d 
+echo "This is coloring Batch" 
+pause 
+echo "Enter if you want to quite"
