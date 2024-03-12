@@ -16,7 +16,7 @@ title ColorOf
 echo "Hello Guys Im back"
 pause 
 cls @REM to clear 
-color 5d 
+color 54 
 echo "This is coloring Batch" 
 pause 
 echo "Enter if you want to quite"
