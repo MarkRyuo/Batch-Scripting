@@ -6,4 +6,8 @@ pause
 cls @REM This is comment for cls - cls is like clear to top 
 
 color 52
-echo "Welcome to the bottom! "
+echo "Welcome to the bottom!"
+pause 
+cls
+
+echo "Enter to Exit!"
