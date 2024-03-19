@@ -11,3 +11,4 @@ pause
 cls
 
 echo "Enter to Exit!"
+pause
