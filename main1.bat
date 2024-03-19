@@ -10,5 +10,6 @@ echo "Welcome to the bottom!"
 pause 
 cls
 
+color 65
 echo "Enter to Exit!"
 pause
